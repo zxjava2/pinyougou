@@ -32,7 +32,7 @@
         <!-- 日志系统版本 -->
         <log4j-core.version>2.7</log4j-core.version>
         <log4j-web.version>2.7</log4j-web.version>
-        <log4j-api.version>2.7</log4j-api.version>
+        <log4j-api.version>2.15.0</log4j-api.version>
     </properties>
 
     <dependencyManagement>
